@@ -40,11 +40,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Juanch1313&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanch1313&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Juanch1313&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ###
 
 <img src="https://github.com/Juanch1313/Juanch1313/blob/output/snake.svg" alt="Snake animation" />
@@ -63,4 +58,7 @@
   </a>
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=Juanch1313&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###

@@ -43,7 +43,7 @@
 
 ###
 
-<img src="https://github.com/Juanch1313/Juanch1313/compare/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Juanch1313/Juanch1313/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 

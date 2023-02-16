@@ -2,10 +2,10 @@
 
 ###
 
-<p align="left">I'm a software developer 👨‍💻 who likes solve problems with code lines. Currently I'm in my last semester of University. 🧑‍🎓<br><br>💟 My favorite language are: C# 💯<br><br><br><br>I'm learning👨‍💻:<br> -🐍 Python <br> -⚛️ ReactJS<br> -⚙️ Rust<br> -🌸 Sass</p>
+<p align="left">I'm a software developer 👨‍💻 who likes solve problems with code lines. Currently I'm in my last semester of University. 🧑‍🎓<br><br>💟 My favorite language are: C# 💯<br><br><br><br>I'm learning 📈💻:<br> -🐍 Python <br> -⚛️ ReactJS<br> -⚙️ Rust<br> -🌸 Sass</p>
 
 ###
-
+# 👨‍💻 Tech Stack::
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
@@ -46,6 +46,8 @@
 
 ###
 
+<h2>💬 Social media</h2>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/juan-rodriguez-tabares/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -58,6 +60,8 @@
   </a>
 </div>
 
+<br>
+<br>
 [![](https://visitcount.itsvg.in/api?id=Juanch1313&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
